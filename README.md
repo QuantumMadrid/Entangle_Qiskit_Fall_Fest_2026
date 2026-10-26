@@ -2,7 +2,7 @@
 
 🌐 Web: [quantummadrid.github.io](https://quantummadrid.github.io/)
 
-📝 Registro / Registration: Eventbrite — TBD
+📝 Registro / Registration: Eventbrite — [Link](https://www.eventbrite.es/e/hackathon-quantum-madrid-computacion-cuantica-en-42-madrid-tickets-2003446624786)
 
 **27–29 nov 2026 · 42 Madrid – Fundación Telefónica** (Distrito Telefónica, Edificio Norte 3, 28050 Madrid)
 Organiza / Organized by **[Quantum Madrid](https://quantummadrid.github.io/)** · Entangle
